@@ -1,4 +1,4 @@
-# jade 
+# jade.py
 
 
 import sys
